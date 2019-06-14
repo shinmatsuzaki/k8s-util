@@ -17,6 +17,7 @@
 
 ### 4. Schedulerの実装
 - [The Kubernetes Scheduler](https://medium.com/@dominik.tornow/the-kubernetes-scheduler-cd429abac02f)
+- [kube-schedulerのソースコードを読みながらPodがNodeにBindされるまでを理解する](https://qiita.com/everpeace/items/601dc613a0f424fb5619)
 
 ### 5. Newtworking
 - [Kubernetes ネットワーキングのすべて](https://www.slideshare.net/linecorp/kubernetes-124878915)
@@ -26,6 +27,9 @@
 - [Kubernetes API Concepts ※API設計](https://kubernetes.io/docs/reference/using-api/api-concepts/)
 - [Extending your Kubernetes Cluster ※拡張可能な機能の一覧](https://kubernetes.io/docs/concepts/extend-kubernetes/extend-cluster/)
 
-### 10.GitOps
+### 10.機能拡張
+ - [猫でもわかる Scheduling Framework](https://speakerdeck.com/ytaka23/kubernetes-meetup-tokyo-16th)
+
+### 20.GitOps
  - [GitOpsではじめるKubernetes CI/CD Pipeline](https://www.slideshare.net/linecorp/gitopskubernetes-cicd-pipeline)
  - [GitLabでWeave FluxでGitOpsしてみた](https://speakerdeck.com/endok/gitops-using-flux-and-gitlab)
