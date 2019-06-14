@@ -17,6 +17,7 @@
 
 ### 4. Schedulerの実装
 - [The Kubernetes Scheduler](https://medium.com/@dominik.tornow/the-kubernetes-scheduler-cd429abac02f)
+- [kube-schedulerのソースコードを読みながらPodがNodeにBindされるまでを理解する](https://qiita.com/everpeace/items/601dc613a0f424fb5619)
 
 ### 5. Newtworking
 - [Kubernetes ネットワーキングのすべて](https://www.slideshare.net/linecorp/kubernetes-124878915)
