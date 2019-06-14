@@ -26,6 +26,9 @@
 - [Kubernetes API Concepts ※API設計](https://kubernetes.io/docs/reference/using-api/api-concepts/)
 - [Extending your Kubernetes Cluster ※拡張可能な機能の一覧](https://kubernetes.io/docs/concepts/extend-kubernetes/extend-cluster/)
 
-### 10.GitOps
+### 10.機能拡張
+ - [猫でもわかる Scheduling Framework](https://speakerdeck.com/ytaka23/kubernetes-meetup-tokyo-16th)
+
+### 20.GitOps
  - [GitOpsではじめるKubernetes CI/CD Pipeline](https://www.slideshare.net/linecorp/gitopskubernetes-cicd-pipeline)
  - [GitLabでWeave FluxでGitOpsしてみた](https://speakerdeck.com/endok/gitops-using-flux-and-gitlab)
